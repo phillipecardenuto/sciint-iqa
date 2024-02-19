@@ -1,0 +1,9 @@
+Pillow
+pyiqa
+pandas
+tqdm
+opencv-python
+scipy
+numpy
+matplotlib
+seaborn
