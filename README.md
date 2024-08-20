@@ -5,6 +5,7 @@ This repository provides an image quality assessment (IQA) of raw western blot f
 ## Dataset
 
 We analyzed a dataset of approximately 95,000 electrophoresis images (gel blots) from 15,011 different research publications. Our findings indicate that over 85% of these images can be classified as low-quality based on various IQA metrics.
+All used figures are under CC-BY 4.0 licenses. The raw material can be downloaded using this link: [iqa-blots.zip](https://www.dropbox.com/scl/fi/i1qumkageg4iy5yxlct6o/iqa-blots.zip?rlkey=3l0ubp52nhvjdkx0190r29vmc&st=7n204ylp&dl=0)
 
 ## Tools and Methodology
 
