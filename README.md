@@ -10,9 +10,9 @@ We analyzed a dataset of approximately 95,000 electrophoresis images (gel blots)
 
 For the IQA, we utilized the [PyIQA toolbox](https://github.com/chaofengc/IQA-PyTorch), which implements a variety of image quality metrics.
 
-The metric scores for each image are available in the `figshare-blots.csv` file located in the `data` directory. This file also includes metadata required to download the images from Figshare.
+The metric scores for each image are available in the [figshare-blots.csv](data/figshare-blots.csv) file located in the `data` directory. This file also includes metadata required to download the images from Figshare.
 
-The complete analysis can be found in the `perform-iqa-analysis.ipynb` notebook, which is located in the `notebooks` directory.
+The complete analysis can be found in the [figshare-data-analysis.ipynb](notebooks/figshare-data-analysis.ipynb) notebook, which is located in the `notebooks` directory.
 
 ## Image Quality Results
 
@@ -34,3 +34,6 @@ When considering all IQA metrics simultaneously, the percentage of images that m
 | 12.48            | 3.24           | 1.10             |
 
 ---
+
+## Histogram Plots
+![KDE Results](results/iqa-result.png)
